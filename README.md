@@ -41,6 +41,7 @@ guide, and an FAQ. The app itself ships through the Mac App Store.
 - [Export formats](docs/export-formats.md) — PLY, SPZ, glTF, `.splat`, SOG and when to use each.
 - [Capture guide](docs/capture-guide.md) — how to shoot photos/video for clean splats.
 - [FAQ](docs/faq.md) — hardware, privacy, pricing, formats.
+- [Sample photos](https://github.com/bkindler/radiancekit-sample-photos) — a ready-to-use photo set: download, drag into RadianceKit, press Start.
 
 ## Pricing
 
